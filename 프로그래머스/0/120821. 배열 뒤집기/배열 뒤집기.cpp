@@ -1,11 +1,16 @@
 #include <string>
 #include <vector>
-#include <algorithm>
 
 using namespace std;
 
 vector<int> solution(vector<int> num_list) {
-    reverse(num_list.begin(), num_list.end());
-    
-    return num_list;
+    vector<int> answer;
+
+    while(!num_list.empty())
+    {
+        answer.push_back(num_list.back());
+        num_list.pop_back();
+    }
+
+    return answer;
 }
