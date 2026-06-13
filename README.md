@@ -1,6 +1,6 @@
 # Jungol_Study
 
-# 문제별 README.md 양식 예시
+문제별 README.md 양식 예시
 # [JUNGOL] 문제번호 : 문제 제목
 
 ## 📝 문제 설명
