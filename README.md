@@ -1,3 +1,6 @@
+# Programmers_Study
+This is an auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
+
 # Jungol_Study
 
 문제별 README.md 양식 예시
