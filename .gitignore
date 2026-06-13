@@ -8,3 +8,6 @@ Release/
 *.vcxproj
 *.vcxproj.filters
 *.vcxproj.user
+
+# 프로그래머스 폴더 제외
+프로그래머스/
